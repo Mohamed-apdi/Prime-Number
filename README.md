@@ -1,3 +1,3 @@
 # Prime-Number
 moh
-<img width="164" alt="image" src="https://github.com/Mohamed-apdi/Prime-Number/assets/119160455/3521c9e3-7e22-4d98-9601-dd27f77a4761">
+<img width="161" alt="image" src="https://github.com/Mohamed-apdi/Prime-Number/assets/119160455/9901c062-99b0-4528-9f8d-903eef6c4a5b">
